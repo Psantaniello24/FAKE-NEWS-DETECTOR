@@ -10,7 +10,7 @@ import time
 from huggingface_hub import login
 
 # Constants
-MODEL_NAME = "PSantaniello95/FAKE_NEWS_DETECTOR"  # Your Hugging Face model name
+MODEL_NAME = "PSantaniello95/FAKE_NEWS_DETECTOR_2"  # Your Hugging Face model name
 MAX_LENGTH = 128
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
