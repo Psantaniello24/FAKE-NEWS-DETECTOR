@@ -7,6 +7,9 @@ A machine learning application that uses a fine-tuned RoBERTa model to detect fa
 ![Demo GIF](./fake_demo.gif)
 
 
+## Try it at : https://fake-news-detector-c6qxugyq5xdofl6bxlxk5p.streamlit.app/
+
+
 ## Features
 
 - Fine-tuned RoBERTa model for fake news detection
